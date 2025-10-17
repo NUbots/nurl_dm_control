@@ -139,7 +139,6 @@ setting the environment variable `MUJOCO_EGL_DEVICE_ID=` to the target GPU ID.
 
 ## NUbots
 Robot from NUbots have been included in the dm_control suite. These models are "nubots" and "nubot_soccer" and are based on the real NUbots robots. The tested env are "stand" and "walk". 
-[![stand](./videos/nubot_stand.gif)](https://github.com/)
+[![stand](./videos/nubot_stand.gif)](https://github.com/NUbots/nurl_dm_control/videos/nubot_stand.gif)
 
-[![walk](./videos/nubot_walk.gif)](https://github.com/)
-
+[![walk](./videos/nubot_walk.gif)](https://github.com/NUbots/nurl_dm_control/videos/nubot_walk.gif)
